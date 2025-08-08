@@ -22,3 +22,6 @@
 
 
 #  https://codilime.com/blog/linux-debugging-observation-tools-overview
+
+
+# https://learngitbranching.js.org/?locale=ru_RU    изучение Гита
