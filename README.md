@@ -25,3 +25,6 @@
 
 
 # https://learngitbranching.js.org/?locale=ru_RU    изучение Гита
+
+# https://compizomania.blogspot.com/2013/05/xfce4-ubuntu.html?view=sidebar  все  про линукс
+
